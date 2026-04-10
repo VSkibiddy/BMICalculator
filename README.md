@@ -22,10 +22,10 @@ If deployed using GitHub Pages, the live version will be available at:
   * Normal weight
   * Overweight
   * Obesity
-- 🎂 Includes age input for additional context
-- 🎨 Clean and user-friendly interface
-- ⚡ Built with pure JavaScript (no external libraries)
-- ✅ Input validation for reliable calculations
+- Includes age input for additional context
+- Clean and user-friendly interface
+- Built with pure JavaScript (no external libraries)
+- Input validation for reliable calculations
 
 ---
 
@@ -43,20 +43,21 @@ Since height is entered in centimeters, it is converted to meters during the cal
 
 ## Project Structure
 
-bmi-calculator/\
-│── index.html\
-└── README.md
+BMICalculator/\
+│── BMICalc.js\
+│── README.md\
+└── index.html
 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
 | HTML5 | Structure of the application |
 | CSS3 | Styling and layout |
-| JavaScript (ES6) | Logic and calculations |
+| JavaScript | Logic and calculations |
 
 ---
 
@@ -68,8 +69,8 @@ bmi-calculator/\
 
 2. Navigate to the project folder:
 
-    cd bmi-calculator
+    cd BMICalculator
 
 3. Open the file in your browser:
-* Double-click index.html, or
+* Double-click `index.html`, or
 * Right-click and select Open with → your preferred browser.
